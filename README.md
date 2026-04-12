@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🚀 Hi, I'm Aditya
 
-<!--
-**adityasiraskar/adityasiraskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech @ IIT BHU  
+📊 Passionate about Data Science, Machine Learning, and Systems  
+⚙️ Building end-to-end ML pipelines & real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔍 Interested in **Machine Learning, Deep Learning, and Data Engineering**
+- 💡 Love solving problems using **data-driven approaches**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+`Python` | `SQL` | `C++`
+
+### ML / Data Science  
+`NumPy` | `Pandas` | `Scikit-learn` | `Matplotlib`|`Seaborn`|`Pytorch`|`Spacy `|`nltk`
+
+### Backend / Tools  
+`FastAPI`| `LangChain` | `Gradio`
+
+### Databases  
+`MySQL` | `Pinecone`|`Postgre`
+
+---
+
+I enjoy breaking down complex ML concepts into simple implementations from scratch.
