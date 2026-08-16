@@ -13,9 +13,10 @@ I enjoy building end-to-end ML/AI systems — from **data processing and model d
 * 🎓 B.Tech in **Chemical Engineering — IIT (BHU)**
 * 💼 Experience in **Data Science, NLP, Deep Learning, LLMs, and AI applications**
 * 🤖 Interested in **Machine Learning, Generative AI, RAG systems, NLP, and MLOps**
-* 💻 Solved **400+ DSA problems** across LeetCode and Codeforces
+* 💻 Solved **1500+ DSA problems** across LeetCode and Codeforces
 * 🏆 **Top 10 / 250+ teams** — FIFS Sports Data Gameathon 2.0
-* 🧠 Max **LeetCode rating: 1590**
+* 🧠 Max **LeetCode rating: 1961 (Knight Badge)**
+* 🧠 Max **Caodforces rating: 1423 (Specialist)**
 * 🔬 Interested in building **scalable, data-driven AI systems**
 * 🌱 Currently strengthening my skills in **ML engineering, system design, and production deployment**
 
@@ -80,62 +81,6 @@ I enjoy building end-to-end ML/AI systems — from **data processing and model d
 
 ---
 
-# 🔥 Featured Projects
-
-## 📄 Multi-Modal Document RAG & QA System
-
-Built an interactive AI system for querying **10-K financial reports, YouTube videos, and CSV datasets** using Retrieval-Augmented Generation.
-
-**Tech:** Python • LangChain • Pinecone • SentenceTransformers • Ollama • Gradio • PyMuPDF • Pandas
-
-### Key Features
-
-* 🔍 Semantic search over financial documents
-* 📚 PDF parsing, chunking, and vector indexing
-* 🧠 Retrieval-Augmented Generation using local LLMs
-* 🎥 YouTube transcript analysis and question answering
-* 📊 CSV data querying
-* ⚡ Interactive Gradio interface
-* 💾 Transcript caching and fallback mechanisms
-* 🔧 Modular ingestion and retrieval pipeline
-
----
-
-## 💬 Sentiment Analysis using BERT & LSTM
-
-Developed a deep-learning based sentiment analysis system for classifying text sentiment using **BERT and LSTM architectures**.
-
-**Tech:** Python • PyTorch/TensorFlow • BERT • LSTM • NLP
-
-### Highlights
-
-* Text preprocessing and tokenization
-* Deep learning based sentiment classification
-* Transformer-based BERT model
-* LSTM-based sequence modeling
-* Model evaluation and comparison
-* Production-oriented project structure
-* Dockerized application with PostgreSQL integration
-
----
-
-## 🏏 Fantasy Cricket Score Predictor
-
-Developed a machine-learning system to predict fantasy cricket player/team scores using historical match and player statistics.
-
-**Tech:** Python • Pandas • Scikit-learn • CatBoost • XGBoost • Web Scraping
-
-### Highlights
-
-* Collected match-wise player data from cricket data sources
-* Engineered predictive features
-* Trained regression models including CatBoost
-* Performed model tuning and evaluation
-* Built a data-driven fantasy score prediction pipeline
-
-🏆 **Ranked Top 10 among 250+ teams in FIFS Sports Data Gameathon 2.0**
-
----
 
 ## 🧠 Machine Learning & Data Science
 
@@ -170,40 +115,6 @@ NLP
 ├── Semantic Search
 └── RAG
 ```
-
----
-
-# 💼 Experience
-
-### Data Science Intern — Sabudh Foundation
-
-Worked on machine-learning and AI applications involving:
-
-* Natural Language Processing
-* Deep Learning
-* Neural Networks
-* Vector Databases
-* LLM integration
-* End-to-end deployment
-* SQL and data processing
-* Team-based development with industry experts
-
-### Data / AI Internship Experience
-
-Worked on building practical AI systems involving **document analysis, retrieval pipelines, LLMs, vector databases, and interactive applications**.
-
----
-
-# 🏆 Achievements
-
-* 🥇 **Top 10 / 250+ teams** — FIFS Sports Data Gameathon 2.0
-* 💻 **400+ DSA problems** solved across LeetCode and Codeforces
-* ⭐ **1590 maximum LeetCode rating**
-* 🎓 **Dakshana Scholar** — Top 1% students selected in India for fully funded JEE Advanced coaching
-* 🎓 **Foundation for Excellence Scholar**
-* 🥉 **3rd Place — Costume Design**, Thomso'24, IIT Roorkee
-
----
 
 # 📊 What I'm Currently Learning
 
