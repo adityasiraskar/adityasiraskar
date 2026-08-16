@@ -21,100 +21,20 @@ I enjoy building end-to-end ML/AI systems — from **data processing and model d
 * 🌱 Currently strengthening my skills in **ML engineering, system design, and production deployment**
 
 ---
-
 ## 🛠️ Technical Skills
 
-### Programming
+**Languages:** Python, C++, SQL
 
-`Python` `C++` `SQL` `Git`
+**ML/Data Science:** NumPy, Pandas, Scikit-learn, XGBoost, CatBoost
 
-### Machine Learning
+**Deep Learning/NLP:** PyTorch, TensorFlow, Keras, BERT, LSTM, Transformers, SentenceTransformers
 
-`Scikit-learn` `XGBoost` `CatBoost` `Pandas` `NumPy`
+**GenAI/LLM:** LangChain, Ollama, Pinecone, RAG
 
-* Regression & Classification
-* Feature Engineering
-* Feature Selection
-* PCA
-* Clustering
-* Ensemble Learning
-* Hyperparameter Optimization
-* Model Evaluation
+**Database:** PostgreSQL, Vector Databases
 
-### Deep Learning & NLP
-
-`PyTorch` `TensorFlow` `Keras` `Transformers` `SentenceTransformers`
-
-* Neural Networks
-* LSTM
-* BERT
-* Text Classification
-* Sentiment Analysis
-* Text Embeddings
-* Transfer Learning
-
-### Generative AI / LLM
-
-`LangChain` `RAG` `Ollama` `Pinecone`
-
-* Retrieval-Augmented Generation
-* Vector Databases
-* Semantic Search
-* LLM Integration
-* Document Question Answering
-* YouTube Transcript QA
-* Local LLM Deployment
-
-### Data & Backend
-
-`PostgreSQL` `Docker` `Gradio`
-
-* Data Processing
-* Database Integration
-* REST/API-based ML applications
-* Containerization
-* End-to-End ML Pipelines
-
-### Tools
-
-`VS Code` `Jupyter` `GitHub` `Docker`
-
+**Deployment/Tools:** Docker, Git, GitHub, VS Code, Jupyter, Gradio
 ---
-
-
-## 🧠 Machine Learning & Data Science
-
-I have worked extensively with:
-
-```text
-Supervised Learning
-├── Linear Regression
-├── Logistic Regression
-├── Decision Trees
-├── Random Forest
-├── XGBoost
-└── CatBoost
-
-Unsupervised Learning
-├── K-Means
-├── Gaussian Mixture Models
-├── PCA
-└── Clustering Analysis
-
-Deep Learning
-├── Neural Networks
-├── CNN
-├── LSTM
-└── Transformers / BERT
-
-NLP
-├── Tokenization
-├── Embeddings
-├── BERT
-├── Sentiment Analysis
-├── Semantic Search
-└── RAG
-```
 
 # 📊 What I'm Currently Learning
 
